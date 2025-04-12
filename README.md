@@ -51,7 +51,7 @@ See requirements.txt for all required libraries:
 - plotly
 - matplotlib
 - numpy
-<img width="1433" alt="Screenshot 2025-04-12 at 5 08 49 PM" src="https://github.com/user-attachments/assets/e481e1ad-8b79-4528-be7e-3866b25e9bcb" />
+
 
 
 ## 📊 Example Visualizations
